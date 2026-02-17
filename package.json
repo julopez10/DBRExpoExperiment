@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
-    "dynamsoft-capture-vision-react-native": "^3.2.5001",
+    "dynamsoft-capture-vision-react-native": "^3.2.5002",
     "expo": "~54.0.25",
     "expo-constants": "~18.0.10",
     "expo-dev-client": "^6.0.18",
